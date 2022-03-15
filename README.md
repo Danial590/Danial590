@@ -8,7 +8,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `bachelor` Computer Science student at Vrije Universiteit Amsterdam.
+- :school: I am a `Bachelor` Computer Science student at Vrije Universiteit Amsterdam.
 - :student: I’m currently following a pre-master in: `Big Data Engineering` at Vrije Universiteit Amsterdam.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a `Data Engineer` and `Data Scientist` at Churned.
